@@ -2,17 +2,17 @@
     margin: 30px;
     width: 400px;
     height: 400px;
-    background-color: blue;
+    background-color: rgb(10, 10, 209);
 }
 .item {
     height: 50px;
     width: 50px;
     margin: 20px;
-    background-color: rgb(139, 0, 109);
-    border: solid whitesmoke 1px;
+    background-color: rgb(221, 214, 220);
+    border: solid red 1px;
     display: inline-block;
 
-    animation: bounce 2s;
+    animation: bounce 1s;
     animation-iteration-count: infinite;
 }
 .one {
